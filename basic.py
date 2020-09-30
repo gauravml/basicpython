@@ -7,7 +7,7 @@ import random
 # using choice() to generate a random number from a 
 # given list of numbers. 
 print ("A random number from list is : ",end="") 
-print (random.choice([1, 4, 8, 10, 3])) 
+print (random.choice([1, 41, 82, 10, 3])) 
 
 # using randrange() to generate in range from 20 
 # to 50. The last parameter 3 is step size to skip 
